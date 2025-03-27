@@ -8,7 +8,9 @@
 - 🚀 I love coding in **Python, HTML, JavaScript, and React**
 - 🤖 Currently diving into the world of **Machine Learning**
 - 📫 Reach me at **azelfa65@gmail.com**
+
 💡 **Fun Fact:** I love playing Rhythm games like osu!, Maimai, and Project Sekai! 🎵
+
 💬 Let's connect and build something awesome! 🚀
 
 <h3 align="left">Language and Tools</h3>
