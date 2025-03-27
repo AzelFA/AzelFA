@@ -8,8 +8,6 @@
 - 🤖 Currently diving into the world of **Machine Learning**
 - 📫 Reach me at **azelfa65@gmail.com**
 
----
-
 <h3 align="left">Language and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
+---
 ![Azel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzelFA&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzelFA&layout=compact&theme=radical)
