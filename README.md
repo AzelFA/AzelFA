@@ -1,5 +1,5 @@
 ### Hi there, I'm Azel! 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=AzelFA&label=Profile%20Views&color=blue&style=flat)
 ---
 
 🌟 **About Me:**
@@ -9,12 +9,9 @@
 - 📫 Reach me at **azelfa65@gmail.com**
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=AzelFA&label=Profile%20Views&color=blue&style=flat)
 
 <h3 align="left">Language and Tools</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
