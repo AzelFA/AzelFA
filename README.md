@@ -4,7 +4,7 @@
 ---
 
 🌟 **About Me:**
-- 🎓 System information Undergraduate in University Singaperbangsa Karawang
+- 🎓 System Informations Undergraduate in University Singaperbangsa Karawang
 - 🚀 I love coding in **Python, HTML, JavaScript, and React**
 - 🤖 Currently diving into the world of **Machine Learning**
 - 📫 Reach me at **azelfa65@gmail.com**
