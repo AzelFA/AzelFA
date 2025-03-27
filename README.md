@@ -1,5 +1,6 @@
 ### Hi there, I'm Azel! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=AzelFA&label=Profile%20Views&color=blue&style=flat)
+
 ---
 
 🌟 **About Me:**
@@ -26,7 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 ---
+
 ![Azel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzelFA&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzelFA&layout=compact&theme=radical)
