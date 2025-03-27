@@ -3,11 +3,12 @@
 ---
 
 🌟 **About Me:**
-- 🚀 I love coding in **Python, HTML, and React**
+- 🚀 I love coding in **Python, HTML, JavaScript, and React**
 - 🤖 Currently diving into the world of **Machine Learning**
 - 📫 Reach me at **azelfa65@gmail.com**
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=AzelFA&label=Profile%20Views&color=blue&style=flat)
 
 📊 **GitHub Stats:**
 
@@ -21,12 +22,6 @@
 
 ---
 
-🔥 **Cool Widgets:**
-
-- ![Profile Views](https://komarev.com/ghpvc/?username=AzelFA&label=Profile%20Views&color=blue&style=flat)
-- [![GitHub Streak](https://streak-stats.demolab.com?user=AzelFA&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
 
 💡 **Fun Fact:** I love playing Rhythm games like osu!, Maimai, and Project Sekai! 🎵
 
