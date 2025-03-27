@@ -11,20 +11,20 @@
 
 📊 **GitHub Stats:**
 
-![Azel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azelfabian&show_icons=true&theme=radical)
+![Azel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzelFA&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azelfabian&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzelFA&layout=compact&theme=radical)
 
 📈 **Contribution Graph:**
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=azelfabian&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AzelFA&theme=dracula)
 
 ---
 
 🔥 **Cool Widgets:**
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=azelfabian&label=Profile%20Views&color=blue&style=flat)
-- [![GitHub Streak](https://streak-stats.demolab.com?user=azelfabian&theme=radical&hide_border=true)](https://git.io/streak-stats)
+- ![Profile Views](https://komarev.com/ghpvc/?username=AzelFA&label=Profile%20Views&color=blue&style=flat)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=AzelFA&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
