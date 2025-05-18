@@ -9,7 +9,7 @@
 - 🤖 Currently diving into the world of **Machine Learning**
 - 📫 Reach me at **azelfa65@gmail.com**
 
-💡 **Fun Fact:** I love playing Rhythm games like osu!, Maimai, and Project Sekai! 🎵
+💡 **Fun Fact:** I am also Rhythm Enthusiast
 
 💬 Let's connect and build something awesome! 🚀
 
